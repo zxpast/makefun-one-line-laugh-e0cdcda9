@@ -18,3 +18,5 @@ The entry (135 characters):
 > I hid my chocolate in the detergent box; my kids found it, do the laundry now, and ask, 'Mom, why does the chocolate taste like clean?'
 
 To run it: `node main.ts` — run it twice; both runs must come out byte-identical.
+
+Submitted as a make.fun one-liner entry; the line above is the whole entry.
